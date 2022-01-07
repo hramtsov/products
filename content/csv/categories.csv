@@ -1,0 +1,29 @@
+,id,title,description,image
+Одежда,1,Верхняя одежда (лето),"ветровки, куртки, джинсовые куртки",https://images.pexels.com/photos/9200368/pexels-photo-9200368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+,2,Верхняя одежда (весна - осень),"пальто, куртки, жилеты",https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=80
+,3,Верхняя одежда (зима),"пуховики, шубы, пальто, парки",https://images.unsplash.com/photo-1577553187323-6afd9777d160?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=652&q=80
+,4,"Футболки, майки, поло",,https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80
+,5,Шорты,,
+,6,Зимние аксессуары,"шарфы, шапки, варежки, перчатки",
+,7,Летние аксессуары,"очки солнцезащитные, платки",
+,8,Пляжная одежда и аксессуары,"сланцы, плавки, купальники",https://images.pexels.com/photos/1756086/pexels-photo-1756086.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
+,9,Летние платья,,https://images.unsplash.com/photo-1572804013427-4d7ca7268217?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1065&q=80
+,10,Обувь (зима),"ботинки, сапоги, кроссовки, ботфорты",https://images.unsplash.com/photo-1639270602686-3c45cec05918?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80
+,11,Обувь (весна - осень),"туфли, кроссовки, ботинки",https://images.unsplash.com/photo-1546367564-ade1880f8921?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80
+,12,Обувь (лето),"туфли, кроссовки, кеды, сандалии, босоножки",https://images.pexels.com/photos/7543639/pexels-photo-7543639.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
+,13,Спортивные костюмы,"толстовки, брюки, футболки",https://images.pexels.com/photos/6311314/pexels-photo-6311314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+,14,Деловые костюмы,"рубашки, брюки, пиджаки, жилетки, аксессуары",https://images.unsplash.com/photo-1598915850252-fb07ad1e6768?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
+,15,Школьная одежда,"форма, костюмы, платья, обувь",https://images.unsplash.com/photo-1613993096403-8df4466b21f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80
+Сад и огород,101,Садовая техника,"газонокосилки, мотокультиваторы",
+,102,Садовый инвентарь,"грабли, лопаты",
+,103,Оборудование для полива,,
+,104,Бассейны,,
+,105,Саженцы и семена,,
+,106,Газоны,"живые, искусственные",
+,107,Садовые постройки,"бани, беседки",
+,108,Снего-уборочная техника,,
+Спорт,201,Зимняя спортивная одежда,,https://www.flickr.com/photos/ekaterina_barabanova/5465805736/in/photolist-9jZFBW-KWJLWf-9jXJ9k-9jXJ52-KbME1L-DbLFey-CCyDW6-DzXi64-4c2rQ2-CChc8L-CvUegn-D2WSd7-9jZFFo-drESMR-9jWBLK-CCheAm-LFP9i5-LCQX8J-LSic4c-LE3EAA-9jWzLH-9k1LYb-9jZEE5-79N5WQ-9myj4A-5wnrLL-9jXG98-9jWx4c-9k1FTL-9mvaCB-LLC5cV-CvUiHt-e3nacb-D5phTP-9m6gfx-C81xKX-CX7onX-C7TzGh-KSZ2jP-k7BCMo-C7TE9d-CChgKb-k7z3HM-9mvpjT-C7TALb-9k1H4j-9mvarK-9jXBTp-9jZFds-9jZzTq
+,202,Горнолыжная одежда,горнолыжные костюмы и аксессуары,https://images.pexels.com/photos/848618/pexels-photo-848618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+,203,"Лыжи, коньки, сноуборд",,https://images.unsplash.com/photo-1615828087808-ee81ce35fbec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
+,204,Альпинизм,,https://images.unsplash.com/photo-1544453850-4f6b4ff86554?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+,205,Термобелье,,https://images.unsplash.com/photo-1486739985386-d4fae04ca6f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80
